@@ -1,0 +1,5 @@
+15:21:51: Failed to copy the file 'C:\Users\adolganov\Dropbox\electronics\Github\tranxtran_overdrive\tra279C.tmp' to 'C:\Users\adolganov\Dropbox\electronics\Github\tranxtran_overdrive\tranxtran_overdrive.pro' (error 0: l’opération a réussi.)
+15:21:51: File 'C:\Users\adolganov\Dropbox\electronics\Github\tranxtran_overdrive\tra279C.tmp' couldn't be renamed 'C:\Users\adolganov\Dropbox\electronics\Github\tranxtran_overdrive\tranxtran_overdrive.pro' (error 0: l’opération a réussi.)
+15:21:51: can't commit changes to file 'C:\Users\adolganov\Dropbox\electronics\Github\tranxtran_overdrive\tranxtran_overdrive.pro' (error 0: l’opération a réussi.)
+15:21:51: Failed to update user configuration file.
+15:21:51: Failed to copy the file 'C:\Program Files\KiCad4\share\kicad\template\kicad.pro' to 'C:\Users\adolganov\Dropbox\electronics\Github\tranxtran_overdrive\tranxtran_overdrive.pro' (error 0: l’opération a réussi.)
